@@ -1,3 +1,6 @@
 # Git-demo
 Git and Github learning
-Author : gyanvendra singh
+<br>
+Author : gyanvendra singh 
+<br>
+institute : DR. A.I.T.H
